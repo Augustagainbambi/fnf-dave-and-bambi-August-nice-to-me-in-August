@@ -6,8 +6,11 @@ youtube：https://youtube.com/channel/UCRcIgy4LdRnU2XgMQfUt5Mg?si=j8PrPEqk2BU-Zh
 my discord：https://discord.gg/zuCFAANETS
 
 Download Tutorials: Click"Code",Click"Download ZIP"View Download Tutorials
+    
 如果你的国家无法访问此模组网站，那么请点击Code，再点击Download ZIP，点开vpn文件夹，下载此软件，如果使用电脑，请用模拟器
+   
 If your country is unable to access this mod website, please click on Code, then click on Download ZIP, open the VPN folder, and download this software. If using a computer, please use a simulator
+    
 How to play：
 computer：Click JSEngine.exe
 Mobile phone：First of all, you have to：https://github.com/JordanSantiagoYT/FNF-JS-Engine
