@@ -10,6 +10,8 @@ Download Tutorials: Click"Code",Click"Download ZIP"View Download Tutorials
 如果你的国家无法访问此模组网站，那么请点击Code，再点击Download ZIP，点开vpn文件夹，下载此软件，如果使用电脑，请用模拟器
    
 If your country is unable to access this mod website, please click on Code, then click on Download ZIP, open the VPN folder, and download this software. If using a computer, please use a simulator
+Note: There are no versions in this mod package, they are all separate mods, so you can download them with confidence
+注意：此模组包中没有版本，它们都是单独的模组，因此您可以放心下载
     
 How to play：
 computer：Click JSEngine.exe
